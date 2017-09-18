@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="analysis">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/analysis" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

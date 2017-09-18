@@ -1,0 +1,19 @@
+body {
+    background-image: url(backgrounds/drakeDefault.jpg);
+    transition: background 0.5s ease-in;
+
+}
+
+input[type='text']{
+    width: 400px;
+    height: 40px;
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}

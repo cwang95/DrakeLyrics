@@ -1,0 +1,83 @@
+<component name="libraryTable">
+  <library name="backward-codecs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/backward-codecs" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/benchmark" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/classification" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/codecs" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/core" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/demo" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/expressions" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/facet" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/grouping" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/highlighter" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/join" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/memory" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/misc" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/queries" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/queryparser" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/replicator" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/sandbox" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/spatial" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/spatial-extras" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/spatial3d" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/suggest" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/test-framework" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/analyzers-common" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/analyzers-icu" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/analyzers-kuromoji" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/analyzers-morfologik" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/analyzers-phonetic" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/analyzers-smartcn" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/analyzers-stempel" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/analyzers-uima" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/backward-codecs" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/benchmark" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/classification" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/codecs" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/core" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/demo" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/expressions" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/facet" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/grouping" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/highlighter" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/join" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/memory" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/misc" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/queries" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/queryparser" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/replicator" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/sandbox" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/spatial" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/spatial-extras" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/spatial3d" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/suggest" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1 2/docs/test-framework" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/backward-codecs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/benchmark" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/classification" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/codecs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/core" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/demo" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/expressions" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/facet" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/grouping" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/highlighter" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/join" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/memory" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/misc" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/queries" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/queryparser" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/replicator" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/sandbox" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/spatial" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/spatial-extras" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/spatial3d" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/suggest" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../lucene-6.2.1 2/test-framework" recursive="false" />
+  </library>
+</component>

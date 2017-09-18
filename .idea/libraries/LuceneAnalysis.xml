@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="LuceneAnalysis">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/common/src/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/common/src/test" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/common/src/tools/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/icu/src/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/icu/src/test" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/icu/src/tools/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/kuromoji/src/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/kuromoji/src/test" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/kuromoji/src/tools/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/kuromoji/src/tools/test" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/morfologik/src/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/morfologik/src/test" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/phonetic/src/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/phonetic/src/test" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/smartcn/src/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/smartcn/src/test" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/stempel/src/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/stempel/src/test" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/uima/src/java" />
+      <root url="file://$PROJECT_DIR$/../lucene-6.2.1/analysis/uima/src/test" />
+    </SOURCES>
+  </library>
+</component>
